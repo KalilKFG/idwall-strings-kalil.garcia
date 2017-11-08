@@ -7,7 +7,7 @@ namespace RS232ModemControlUtil
   static class Program
   {
     /// <summary>
-    /// The main entry point for the application.
+    /// The main entry point for the application. ahsaghsahgsahsahgsahg
     /// </summary>
     [STAThread]
     static void Main()
